@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Block67
+- 👋 Hi, I’m Abdoul-Rahamane BODA
 
 <!---
 Block67/Block67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

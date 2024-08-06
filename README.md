@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahamane BODA=====================================================================================================================================Full stack developper---------------------I'm passionate about data, Lightning Network applications, Bitcoin, and artificial intelligence. I also analyze token contracts to verify if they are scams or not.* 🌍  I'm based in Benin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahamane BODA Full stack developper I'm passionate about data, Lightning Network applications, Bitcoin, and artificial intelligence. I also analyze token contracts to verify if they are scams or not.* 🌍  I'm based in Benin
 
 ### Skills
 

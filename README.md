@@ -48,7 +48,6 @@ I'm passionate about **blockchain technologies**, especially the **Lightning Net
 
 ## 📬 Contact Me
 
-- 📩 Email: block6703@gmail.com.com
 - 🐦 Twitter: [@Ramane_Boda](https://x.com/Ramane_Boda)
 - 💬 Telegram: [@Block6703](https://t.me/Block6703)
 
